@@ -1,0 +1,5 @@
+DOMAIN = google.com
+PASS = koverNaGolove
+USER='god'
+PREFIX='backup-su'
+CLOUD_PATH='/home/god/new'
